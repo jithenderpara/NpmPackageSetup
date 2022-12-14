@@ -1,0 +1,14 @@
+.textBox{
+    margin: 3px 5px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+.textBox label{
+    margin-right: 5px;
+}
+.textBox input{
+    padding: 3px 5px;
+
+}
